@@ -1,9 +1,8 @@
-:root{
-    --cor-de-fundo:#cf1ecf;
+ @import url(styles/header.css);
+ 
+ :root{
+    --cor-de-fundo:#cf1ecf34;
 }
 body{
     background-color: var(--cor-de-fundo);
-}
-h1{
-    background-color: aliceblue;
 }
