@@ -23,6 +23,7 @@
     display: none;
     position:absolute;
     top: 100px;
+    width: 60vw;
 }
 .container__botao:checked ~ .lista-menu {
  display: block;
@@ -32,4 +33,13 @@
    padding: 1em;
    background-color: blueviolet;
 }
-  
+  .lista-menu__titulo{
+    color: blanchedalmond;
+  }
+  .lista-menu__link{
+    background-color: blueviolet;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: bisque;
+    background-clip: text;
+    text-transform: uppercase;
+  }
