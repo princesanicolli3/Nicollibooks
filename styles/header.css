@@ -39,7 +39,7 @@
   .lista-menu__link{
     background-color: blueviolet;
     -webkit-background-clip: text;
-    -webkit-text-fill-color: bisque;
+    -webkit-text-fill-color: black;
     background-clip: text;
     text-transform: uppercase;
   }
