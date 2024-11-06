@@ -1,8 +1,15 @@
 @import url("styles/header.css");
 
 :root{
-    --cor-de-fundo: #cf1ecf34te;
+    --cor-de-fundo: purple;
+    --fonte-principal:"Poppins";
 }
 body{
     background-color: var(--cor-de-fundo);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
+}
+h1{
+    background-color: aliceblue;
 }
