@@ -38,7 +38,7 @@
     font-weight: 700;
   }
   .lista-menu__link{
-    background-color: blueviolet;
+    background-color: rgba(114, 14, 139, 0.199);
     -webkit-background-clip: text;
     -webkit-text-fill-color: black;
     background-clip: text;
